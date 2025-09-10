@@ -9,7 +9,7 @@
 //=============================================================================
 /*:
  * @target MV MZ
- * @plugindesc 指定のイベントをプレイヤーがいる位置に集合させます。
+ * @plugindesc Gathering the specified events to the player's location. And, You can also gathering events by specifying the coordinates.
  * @author TYPE74RX-T
  * @url https://w.atwiki.jp/type74rx-t/pages/221.html
  *
